@@ -1,0 +1,1 @@
+// Placeholder: SM4-GCM mode implementation

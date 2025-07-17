@@ -1,0 +1,1 @@
+// Placeholder: SM4 AES-NI acceleration (Intel AES-NI intrinsics)
